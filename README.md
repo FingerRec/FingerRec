@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi everyone 👋
 
 <!--
 **FingerRec/FingerRec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently a master student at Sun Yat-sen University.
+
+Here is my [personal website](https://fingerrec.github.io).
+
+
+![Jinpeng Wang's GitHub stats](https://github-readme-stats.vercel.app/api?username=fingerrec&show_icons=true&theme=radical)
+
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fingerrec)
