@@ -23,5 +23,4 @@ Here is my [personal website](https://fingerrec.github.io).
 ![Jinpeng Wang's GitHub stats](https://github-readme-stats.vercel.app/api?username=fingerrec&show_icons=true&theme=radical)
 
 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fingerrec)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fingerrec&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
