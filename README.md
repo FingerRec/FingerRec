@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently a master student at Sun Yat-sen University.
+- 🔭 I’m currently a 1st year PHD student at National University of Singapore (NUS).
 
 Here is my [personal website](https://fingerrec.github.io).
 
