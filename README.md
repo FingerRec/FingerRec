@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently a second-year PHD student at National University of Singapore (NUS).
+- 🔭 I’m currently a third-year PHD student at National University of Singapore (NUS).
 
 Here is my [personal website](https://fingerrec.github.io).
 
