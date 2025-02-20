@@ -20,8 +20,9 @@ Here are some ideas to get you started:
 
 Here is my [personal website](https://fingerrec.github.io).
 
+- 🔭 I’m currently working on Large Multi-modality Model and data-centric AI.
+  
+<!-- ![Jinpeng Wang's GitHub stats](https://github-readme-stats.vercel.app/api?username=fingerrec&show_icons=true&theme=radical)
 
-![Jinpeng Wang's GitHub stats](https://github-readme-stats.vercel.app/api?username=fingerrec&show_icons=true&theme=radical)
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fingerrec&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fingerrec&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  -->
